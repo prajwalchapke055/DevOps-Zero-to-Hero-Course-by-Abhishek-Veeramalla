@@ -1,8 +1,8 @@
 # DevOps-Zero-to-Hero-Course-by-Abhishek-Veeramalla
 
-## [Abhishek Veeramalla YouTube Channel](https://www.youtube.com/@AbhishekVeeramalla)
+## [Abhishek Veeramalla YouTube Channel Link](https://www.youtube.com/@AbhishekVeeramalla)
 
-## [DevOps Zero To Hero Course](https://youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&si=keXAE2-qPNPtMmX3)
+## [DevOps Zero To Hero Course Link](https://youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&si=keXAE2-qPNPtMmX3)
 
 ## Screenshot
 
